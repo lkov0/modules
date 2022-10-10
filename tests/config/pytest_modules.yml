@@ -571,6 +571,10 @@ cooler/zoomify:
   - modules/nf-core/cooler/zoomify/**
   - tests/software/cooler/zoomify/**
 
+crispresso2/crispresso2:
+  - modules/crispresso2/crispresso2/**
+  - tests/modules/crispresso2/crispresso2/**
+
 crumble:
   - modules/nf-core/crumble/**
   - tests/modules/nf-core/crumble/**
